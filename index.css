@@ -1,19 +1,19 @@
-#test{
+#test {
     font-family: 'Comic Sans MS';
     color: pink;
     -webkit-text-stroke-width: 0.25px;
-    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-color: lightpink;
 }
 body{
     background-color: #222222;
 }
-#linkcolor{
-    color: white;
+#linkcolor {
+    color: pink;
 }
-#wiplinkcolor{
-    color: white;
+#wiplinkcolor {
+    color: pink;
 }
-#whiteoutline{    
+#whiteoutline {
     -webkit-text-stroke-width: 0.25px;
-    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-color: pink;
 }
