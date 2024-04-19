@@ -1,11 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Bitcoin",
     "\\ERD",
     "\\Proge stiilid",
-    "\\PROJECTLIBRE",
-    "\\PROJECTLIBRE\\ProjectLibre2-main"
+    "\\PROJECTLIBRE\\ProjectLibre2-main",
+    "\\SDLC",
+    "\\UML Diagrams"
   ],
-  "SelectedNode": "\\PROJECTLIBRE\\arvutimang.html",
+  "SelectedNode": "\\Bitcoin\\BitcoinCalc.html",
   "PreviewInSolutionExplorer": false
 }
